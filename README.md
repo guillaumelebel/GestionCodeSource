@@ -2,8 +2,8 @@
 
 Vous trouverez ci-joint différents documents et lien sur la présentation "Gestionnaire de source" du jeudi 15 mars dernier.
 
-Présentation : Gestionnaires de sourcesv2.pptx
-Documentation sur les commandes les plus utilisées : github-git-cheat-sheet.pdf
+- Présentation : Gestionnaires de sourcesv2.pptx
+- Documentation sur les commandes les plus utilisées : github-git-cheat-sheet.pdf
 
 ---
 
